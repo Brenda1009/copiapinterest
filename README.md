@@ -5,6 +5,18 @@ Se enfoca en replicar la apariencia visual de pinterest ofreciendo una experienc
 
 ### Características 
 
-* Diseño reponsive:Adaptable a diferentes tamaños de pantalla para una experiencia de usuarios óptima en dispositivos móviles y de escritorio.
-* Interfaz de usuario intuitiva: Inspirada en pinterest con una navegación fácil y accesible.
-* 
+* **Diseño reponsive:** Adaptable a diferentes tamaños de pantalla para una experiencia de usuarios óptima en dispositivos móviles y de escritorio.
+* **Interfaz de usuario intuitiva:** Inspirada en pinterest con una navegación fácil y accesible.
+* **Interacciones dinámicas:** Efectos visuales para elementos interacitvos como botones y enlaces
+* **Icongrafía y estilos modernos:** Uso de la biblioteca de íonos de material design y estilos css modernos para una apariencia cool
+
+### Tecnologías utilizadas 
++ **HTML5:** Para la estructura básica del sitio.
++ **CSS3:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos hover
++ **Google fonts:** Para las fuentes personalizadas
+
+### Vista previa del proyecto 
+--pendiente--
+### Contacto 
+Si te gustaría invitarme escríbeme por [link](https://linkadondequierasquerediriga)
+
